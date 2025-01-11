@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "../ProgWeb"
+		},
+		{
+			"path": "C:/MAMP/htDocs/Semestre3"
+		},
+		{
+			"path": "../noSQL-InfraDon2"
+		},
+		{
+			"path": "../WebDon"
+		},
+		{
+			"path": "../todoRepo"
+		},
+		{
+			"path": "C:/Users/Robin/Desktop/Temp/Bllets_tp_yougov"
+		},
+		{
+			"path": "C:/MAMP/htDocs/Semestre3/babelproject"
+		},
+		{
+			"path": "../test"
+		}
+	],
+	"settings": {
+		"php.version": "8.3",
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"driver": "SQLite",
+				"name": "babel",
+				"database": "${workspaceFolder:babelproject}/db/babel.sqlite",
+				"group": "newgroup"
+			}
+		],
+		"sqltools.useNodeRuntime": true
+	}
+}

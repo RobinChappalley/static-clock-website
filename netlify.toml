@@ -1,6 +1,6 @@
 # example netlify.toml
 [build]
-  command = "hugo build"
+  command = "No build command specified"
   functions = "netlify/functions"
   publish = ""
 
